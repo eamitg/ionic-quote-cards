@@ -1,0 +1,129 @@
+/* Your app's CSS, go crazy, make it your own */
+
+.ionic-logo {
+  display: block;
+  margin: 15px auto;
+  width: 96px;
+  height: 96px;
+}
+
+.pane {
+  background-color: dimgrey;
+}
+
+.bar.bar-transparent {
+  background-color: indianred;
+  background-image: none;
+  border: none;
+    box-shadow: 1px 1px 15px 0px rgba(0,0,0,0.95);
+}
+
+.bar .title {
+  color: #eee;
+    font-family: fantasy;
+    font-size: 20px;    
+}
+
+.swipe-cards {
+  position: fixed;
+}
+
+swipe-card {
+  display: none;
+  position: fixed;
+  -webkit-transform: scale(1,1);
+  left: 50%;
+  top: 50%;
+  width: 300px;
+  height: 300px;
+  margin-left: -150px;
+  margin-top: -150px;
+  box-sizing: border-box;
+  box-shadow: 2px 2px 35px 0px rgba(0,0,0,0.85);
+  background-color: rgb(255,255,255);
+  border-radius: 10px;
+  overflow: hidden;
+  -webkit-animation-fill-mode: forwards;
+}
+
+swipe-card .title {
+  padding: 2px;
+  line-height: 30px;
+  color: indianred;
+    z-index: 2;
+    margin-top: -250px;
+    text-align: center;
+    font-size: 30px;
+/*    font-variant:small-caps;*/
+    justify-content:center;
+    font-weight: 400;
+    font-family: fantasy;
+}
+swipe-card .author {
+  padding: 2px;
+  line-height: 30px;
+  color: indianred;
+    z-index: 2;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 30px;
+/*    font-variant:small-caps;*/
+    justify-content:center;
+    font-weight: 400;
+    font-family: fantasy;
+}
+swipe-card .image {
+  overflow: hidden;
+  max-height: 340px;
+    z-index: 1;
+}
+swipe-card .button {
+    border: none;
+    margin-top: -42px;
+    z-index: 3;
+}
+swipe-card .image img {
+  width: 100%;
+  border-radius: 0px 0px 0px 0px;
+}
+
+#start-card {
+  color: #fff;
+  background-color: #30BD8A;
+  line-height: 300px;
+  word-wrap: break-word;
+  border: 2px solid #4CD68E;
+    font-family: fantasy;
+    font-weight: 900;
+  text-align: center;
+}
+#start-card span {
+  display: inline-block;
+  line-height: 40px;
+  width: 200px;
+  font-size: 35px;
+  vertical-align: middle;
+}
+
+#footer .button {
+  color: #fff;
+}
+
+@-webkit-keyframes bounceIn {
+  0% {
+    -webkit-transform: scale(0,0);
+  }
+  70% {
+    -webkit-transform: scale(1.2,1.2);
+  }
+  100% {
+    -webkit-transform: scale(1,1);
+  }
+}
+
+swipe-card.pop-in-start {
+  -webkit-transform: scale(0,0);
+}
+swipe-card.pop-in {
+  -webkit-animation: bounceIn 0.4s ease-out;
+}
