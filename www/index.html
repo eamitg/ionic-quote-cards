@@ -25,7 +25,7 @@
   <script src="js/ionic.swipecards.js"></script>
 </head>
 
-<body ng-app="starter" no-scroll>
+<body ng-app="starter" no-scroll="">
 
   <ion-pane ng-controller="CardsCtrl">
     <ion-header-bar class="bar-transparent">
@@ -34,7 +34,7 @@
 
     <swipe-cards>
       <swipe-card on-card-swipe="cardSwiped()" id="start-card">
-        Quotations &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the day
+        Quotations for the day
       </swipe-card>
       <swipe-card ng-repeat="card in cards" on-destroy="cardDestroyed($index)" on-card-swipe="cardSwiped($index)">
         <div ng-controller="CardCtrl">
