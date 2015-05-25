@@ -82,3 +82,109 @@
 2015-05-25 05:27:19.517 tmp[27609:3264645] Resetting plugins due to page load.
 2015-05-25 05:27:19.759 tmp[27609:3264645] Finished load of: file:///Users/amitg/Library/Developer/CoreSimulator/Devices/817E2D02-C760-4796-A0EC-3FFF7E5F1145/data/Containers/Bundle/Application/10BF1D4E-6B68-489C-9E04-D08A0E204C4C/tmp.app/www/index.html
 2015-05-25 05:27:20.706 tmp[27609:3264645] Success [object Object]
+2015-05-25 05:32:07.207 tmp[27843:3268670] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/amitg/Library/Developer/CoreSimulator/Devices/F2C74311-25CF-49D2-94F3-7A7BB45B09DA/data/Containers/Data/Application/F517B377-9BD2-4DBF-A3BB-9FFD18A6E0B0/Library/Cookies/Cookies.binarycookies
+2015-05-25 05:32:07.315 tmp[27843:3268670] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-25 05:32:07.315 tmp[27843:3268670] Multi-tasking -> Device: YES, App: YES
+2015-05-25 05:32:07.318 tmp[27843:3268670] Unlimited access to network resources
+2015-05-25 05:32:07.403 tmp[27843:3268670] [CDVTimer][keyboard] 0.054002ms
+2015-05-25 05:32:07.403 tmp[27843:3268670] [CDVTimer][TotalPluginStartup] 0.213027ms
+2015-05-25 05:32:07.751 tmp[27843:3268670] Resetting plugins due to page load.
+2015-05-25 05:32:08.056 tmp[27843:3268670] Finished load of: file:///Users/amitg/Library/Developer/CoreSimulator/Devices/F2C74311-25CF-49D2-94F3-7A7BB45B09DA/data/Containers/Bundle/Application/B8E53F4C-082B-418A-8186-510C2134D105/tmp.app/www/index.html
+2015-05-25 05:32:09.367 tmp[27843:3268670] Success [object Object]
+2015-05-25 05:33:29.429 tmp[28014:3270617] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/amitg/Library/Developer/CoreSimulator/Devices/F2C74311-25CF-49D2-94F3-7A7BB45B09DA/data/Containers/Data/Application/D28A002C-A59A-4D5D-85FB-2B36215582B7/Library/Cookies/Cookies.binarycookies
+2015-05-25 05:33:29.562 tmp[28014:3270617] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-25 05:33:29.562 tmp[28014:3270617] Multi-tasking -> Device: YES, App: YES
+2015-05-25 05:33:29.571 tmp[28014:3270617] Unlimited access to network resources
+2015-05-25 05:33:29.722 tmp[28014:3270617] [CDVTimer][keyboard] 0.243008ms
+2015-05-25 05:33:29.722 tmp[28014:3270617] [CDVTimer][TotalPluginStartup] 0.620008ms
+2015-05-25 05:33:30.010 tmp[28014:3270617] Resetting plugins due to page load.
+2015-05-25 05:33:30.253 tmp[28014:3270617] Finished load of: file:///Users/amitg/Library/Developer/CoreSimulator/Devices/F2C74311-25CF-49D2-94F3-7A7BB45B09DA/data/Containers/Bundle/Application/F3D3C729-CAD3-4DD7-AAB6-AA0760917A27/tmp.app/www/index.html
+2015-05-25 05:33:32.244 tmp[28014:3270617] Success [object Object]
+2015-05-25 05:37:25.737 tmp[28231:3276515] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/amitg/Library/Developer/CoreSimulator/Devices/F2C74311-25CF-49D2-94F3-7A7BB45B09DA/data/Containers/Data/Application/852B48B5-0567-4646-8854-B47F523BB8F4/Library/Cookies/Cookies.binarycookies
+2015-05-25 05:37:25.861 tmp[28231:3276515] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-25 05:37:25.861 tmp[28231:3276515] Multi-tasking -> Device: YES, App: YES
+2015-05-25 05:37:25.863 tmp[28231:3276515] Unlimited access to network resources
+2015-05-25 05:37:25.989 tmp[28231:3276515] [CDVTimer][keyboard] 0.095963ms
+2015-05-25 05:37:25.989 tmp[28231:3276515] [CDVTimer][TotalPluginStartup] 0.327051ms
+2015-05-25 05:37:26.229 tmp[28231:3276515] Resetting plugins due to page load.
+2015-05-25 05:37:26.539 tmp[28231:3276515] Finished load of: file:///Users/amitg/Library/Developer/CoreSimulator/Devices/F2C74311-25CF-49D2-94F3-7A7BB45B09DA/data/Containers/Bundle/Application/610B08D3-82E8-4499-B046-8B3A0C3F293C/tmp.app/www/index.html
+2015-05-25 05:37:27.846 tmp[28231:3276515] Success [object Object]
+2015-05-25 05:37:33.206 tmp[28231:3276559] Communications error: <OS_xpc_error: <error: 0x2dbd5f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2dbd83c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-05-25 05:37:33.210 tmp[28231:3276678] Terminating since there is no system app.
+2015-05-25 05:38:06.892 tmp[28403:3277634] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/amitg/Library/Developer/CoreSimulator/Devices/F2C74311-25CF-49D2-94F3-7A7BB45B09DA/data/Containers/Data/Application/9CCEAFCD-54B7-4AA7-A335-8BEC842D03FC/Library/Cookies/Cookies.binarycookies
+2015-05-25 05:38:07.005 tmp[28403:3277634] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-25 05:38:07.006 tmp[28403:3277634] Multi-tasking -> Device: YES, App: YES
+2015-05-25 05:38:07.008 tmp[28403:3277634] Unlimited access to network resources
+2015-05-25 05:38:07.119 tmp[28403:3277634] [CDVTimer][keyboard] 0.052989ms
+2015-05-25 05:38:07.119 tmp[28403:3277634] [CDVTimer][TotalPluginStartup] 0.212014ms
+2015-05-25 05:38:07.227 tmp[28403:3277634] Resetting plugins due to page load.
+2015-05-25 05:38:07.590 tmp[28403:3277634] Finished load of: file:///Users/amitg/Library/Developer/CoreSimulator/Devices/F2C74311-25CF-49D2-94F3-7A7BB45B09DA/data/Containers/Bundle/Application/508955B7-B217-4B82-957F-043A631CDFC5/tmp.app/www/index.html
+2015-05-25 05:38:08.638 tmp[28403:3277634] Success [object Object]
+2015-05-25 05:38:14.275 tmp[28403:3277840] Terminating since there is no system app.
+2015-05-25 05:38:28.941 tmp[28574:3278546] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/amitg/Library/Developer/CoreSimulator/Devices/F2C74311-25CF-49D2-94F3-7A7BB45B09DA/data/Containers/Data/Application/4D0B10CC-4DA9-4BDF-9BBE-6634E0674514/Library/Cookies/Cookies.binarycookies
+2015-05-25 05:38:29.044 tmp[28574:3278546] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-25 05:38:29.044 tmp[28574:3278546] Multi-tasking -> Device: YES, App: YES
+2015-05-25 05:38:29.046 tmp[28574:3278546] Unlimited access to network resources
+2015-05-25 05:38:29.144 tmp[28574:3278546] [CDVTimer][keyboard] 0.086010ms
+2015-05-25 05:38:29.144 tmp[28574:3278546] [CDVTimer][TotalPluginStartup] 0.331998ms
+2015-05-25 05:38:29.371 tmp[28574:3278546] Resetting plugins due to page load.
+2015-05-25 05:38:29.736 tmp[28574:3278546] Finished load of: file:///Users/amitg/Library/Developer/CoreSimulator/Devices/F2C74311-25CF-49D2-94F3-7A7BB45B09DA/data/Containers/Bundle/Application/35C9E4C7-F7F4-4950-93EA-E30C6648570D/tmp.app/www/index.html
+2015-05-25 05:38:49.542 tmp[28746:3279356] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/amitg/Library/Developer/CoreSimulator/Devices/F2C74311-25CF-49D2-94F3-7A7BB45B09DA/data/Containers/Data/Application/569BE9AE-3C58-4029-B021-E2DA65BFF5C1/Library/Cookies/Cookies.binarycookies
+2015-05-25 05:38:49.661 tmp[28746:3279356] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-25 05:38:49.664 tmp[28746:3279356] Multi-tasking -> Device: YES, App: YES
+2015-05-25 05:38:49.667 tmp[28746:3279356] Unlimited access to network resources
+2015-05-25 05:38:49.802 tmp[28746:3279356] [CDVTimer][keyboard] 0.140011ms
+2015-05-25 05:38:49.803 tmp[28746:3279356] [CDVTimer][TotalPluginStartup] 0.451982ms
+2015-05-25 05:38:49.937 tmp[28746:3279356] Resetting plugins due to page load.
+2015-05-25 05:38:50.303 tmp[28746:3279356] Finished load of: file:///Users/amitg/Library/Developer/CoreSimulator/Devices/F2C74311-25CF-49D2-94F3-7A7BB45B09DA/data/Containers/Bundle/Application/D7841D47-96E1-4E15-8F14-AA49993CF459/tmp.app/www/index.html
+2015-05-25 05:38:51.231 tmp[28746:3279356] Success [object Object]
+2015-05-25 05:40:53.242 tmp[28925:3281639] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/amitg/Library/Developer/CoreSimulator/Devices/F2C74311-25CF-49D2-94F3-7A7BB45B09DA/data/Containers/Data/Application/596C083E-D65D-4C7C-BF45-D585A577829A/Library/Cookies/Cookies.binarycookies
+2015-05-25 05:40:53.356 tmp[28925:3281639] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-25 05:40:53.356 tmp[28925:3281639] Multi-tasking -> Device: YES, App: YES
+2015-05-25 05:40:53.358 tmp[28925:3281639] Unlimited access to network resources
+2015-05-25 05:40:53.459 tmp[28925:3281639] [CDVTimer][keyboard] 0.051975ms
+2015-05-25 05:40:53.459 tmp[28925:3281639] [CDVTimer][TotalPluginStartup] 0.208020ms
+2015-05-25 05:40:53.581 tmp[28925:3281639] Resetting plugins due to page load.
+2015-05-25 05:40:53.900 tmp[28925:3281639] Finished load of: file:///Users/amitg/Library/Developer/CoreSimulator/Devices/F2C74311-25CF-49D2-94F3-7A7BB45B09DA/data/Containers/Bundle/Application/E990E540-7D17-4D07-9CEA-7C0ADD856D29/tmp.app/www/index.html
+2015-05-25 05:40:54.811 tmp[28925:3281639] Success [object Object]
+2015-05-25 05:42:28.591 tmp[28925:3281639] 149
+2015-05-25 05:42:28.591 tmp[28925:3281639] Touch distance 1490
+2015-05-25 05:42:29.020 tmp[28925:3281639] 736 300
+2015-05-25 05:42:30.006 tmp[28925:3281639] 40
+2015-05-25 05:42:30.006 tmp[28925:3281639] Touch distance 400
+2015-05-25 05:42:30.118 tmp[28925:3281639] 736 300
+2015-05-25 05:42:30.934 tmp[28925:3281639] 36
+2015-05-25 05:42:30.934 tmp[28925:3281639] Touch distance 360
+2015-05-25 05:42:31.086 tmp[28925:3281639] 736 300
+2015-05-25 05:42:32.609 tmp[28925:3281639] 736 300
+2015-05-25 05:42:33.031 tmp[28925:3281639] mousedown stop event
+2015-05-25 05:42:33.811 tmp[28925:3281639] 736 300
+2015-05-25 05:42:34.235 tmp[28925:3281639] mousedown stop event
+2015-05-25 05:42:35.112 tmp[28925:3281639] 736 300
+2015-05-25 05:42:35.438 tmp[28925:3281639] mousedown stop event
+2015-05-25 05:42:36.878 tmp[28925:3281639] 736 300
+2015-05-25 05:42:37.298 tmp[28925:3281639] mousedown stop event
+2015-05-25 05:42:37.849 tmp[28925:3281639] 736 300
+2015-05-25 05:42:38.180 tmp[28925:3281639] mousedown stop event
+2015-05-25 05:42:39.212 tmp[28925:3281639] 736 300
+2015-05-25 05:42:39.587 tmp[28925:3281639] mousedown stop event
+2015-05-25 05:43:12.437 tmp[28925:3281639] 121
+2015-05-25 05:43:12.438 tmp[28925:3281639] Touch distance 1210
+2015-05-25 05:43:12.614 tmp[28925:3281639] 736 300
+2015-05-25 05:43:13.417 tmp[28925:3281639] 151
+2015-05-25 05:43:13.417 tmp[28925:3281639] Touch distance 1510
+2015-05-25 05:43:13.636 tmp[28925:3281639] 736 300
+2015-05-25 05:43:14.907 tmp[28925:3281639] 736 300
+2015-05-25 05:43:15.315 tmp[28925:3281639] mousedown stop event
+2015-05-25 05:43:15.852 tmp[28925:3281639] 736 300
+2015-05-25 05:43:16.231 tmp[28925:3281639] mousedown stop event
+2015-05-25 05:43:17.019 tmp[28925:3281639] 736 300
+2015-05-25 05:43:18.153 tmp[28925:3281639] 736 300
+2015-05-25 05:43:18.545 tmp[28925:3281639] mousedown stop event
+2015-05-25 05:43:19.457 tmp[28925:3281639] 13
+2015-05-25 05:43:19.458 tmp[28925:3281639] Touch distance 130
+2015-05-25 05:43:19.763 tmp[28925:3281639] 736 300
+2015-05-25 05:43:21.224 tmp[28925:3281639] 736 300
+2015-05-25 05:43:21.614 tmp[28925:3281639] mousedown stop event

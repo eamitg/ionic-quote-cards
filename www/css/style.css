@@ -21,7 +21,7 @@
 .bar .title {
   color: #eee;
     font-family: fantasy;
-    font-size: 18px;
+    font-size: 22px;
     font-size-adjust: auto;
     max-width: inherit;
 }
@@ -101,8 +101,9 @@ swipe-card .image img {
 }
 #start-card span {
   display: inline-block;
-  line-height: 30px;
-  font-size: 25px;
+  line-height: 60px;
+  font-size: 35px;
+    width: 210px;
   vertical-align: middle;
 }
 
