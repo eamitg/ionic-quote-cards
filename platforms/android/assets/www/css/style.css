@@ -21,9 +21,10 @@
 .bar .title {
   color: #eee;
     font-family: fantasy;
-    font-size: 20px;    
+    font-size: 22px;
+    font-size-adjust: auto;
+    max-width: inherit;
 }
-
 .swipe-cards {
   position: fixed;
 }
@@ -48,7 +49,7 @@ swipe-card {
 
 swipe-card .title {
   padding: 2px;
-  line-height: 30px;
+  line-height: 35px;
   color: indianred;
     z-index: 2;
     margin-top: -250px;
@@ -56,7 +57,7 @@ swipe-card .title {
     font-size: 30px;
 /*    font-variant:small-caps;*/
     justify-content:center;
-    font-weight: 400;
+    font-weight: 700;
     font-family: fantasy;
 }
 swipe-card .author {
@@ -93,15 +94,16 @@ swipe-card .image img {
   line-height: 300px;
   word-wrap: break-word;
   border: 2px solid #4CD68E;
+    justify-content:center;
     font-family: fantasy;
     font-weight: 900;
   text-align: center;
 }
 #start-card span {
   display: inline-block;
-  line-height: 40px;
-  width: 200px;
+  line-height: 60px;
   font-size: 35px;
+    width: 210px;
   vertical-align: middle;
 }
 
